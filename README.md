@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Seongbin Kim
+I'm Seongbin Kim 
 Check out my blog: [young170.github.io](https://young170.github.io/)
 
 ---
