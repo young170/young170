@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Seongbin Kim
+Check out my blog: [young170.github.io](https://young170.github.io/)
+
 ---
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=young170&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true" alt="Seongbin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=young170&layout=compact&theme=material-palenight&hide_border=true" /></a> |
 | ------------- | ------------- |
