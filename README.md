@@ -4,7 +4,7 @@ I'm Seongbin Kim <br>
 Check out my blog: [young170.github.io](https://young170.github.io/)
 
 ---
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=young170&count_private=false&layout=compact&theme=material-palenight&hide_border=true&exclude_repo=young170.github.io" /></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=young170&layout=compact&theme=material-palenight&hide_border=true&exclude_repo=young170.github.io" /></a>
 
 <!--
 **young170/young170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
