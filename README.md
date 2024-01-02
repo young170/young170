@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm Seongbin Kim <br>
-Check out my blog: [young170.github.io](https://young170.github.io/)
 
 ---
  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=young170&layout=compact&theme=material-palenight&hide_border=true&exclude_repo=young170.github.io,CIMIN" /></a>
